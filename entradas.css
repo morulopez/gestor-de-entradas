@@ -1,0 +1,33 @@
+.container{
+	margin-top:15%;
+}
+body{
+	background-color: #f4fcdb;
+}
+/*---------------------CSS  formulario datos de cliente---------------------------*/
+.color_boton{
+	background-color: #13a35d;
+}
+
+.form_gestion{
+	margin:15%;
+}
+/*-----------------------------div entrada--------------------*/
+.entrada{
+
+	margin:30% 10% 0 0;
+	border:1px solid black;
+	width:100%;
+	padding:5%;
+	background-color: #fcfcfc;
+	border-radius: 5px;
+	font-size: 20px;
+}
+.body_entrada{
+	background-color: #e2edff;
+}
+.imagen{
+	border-radius: 10px;
+
+}
+
