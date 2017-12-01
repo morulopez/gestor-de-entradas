@@ -7,7 +7,7 @@
 		<link rel="stylesheet" href="entradas.css">
 	</Head>
 	<body>
-		<h1>probando</h1>
+		
 		<div class="container">
 			<form action="" method="POST">
 				 <div class="form-group">
